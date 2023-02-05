@@ -1,0 +1,12 @@
+{
+  "name": "my-graphql-nestjs-prisma-postgres",
+  "packageManager": "yarn@3.2.4",
+  "dependencies": {
+    "@nestjs/cli": "^9.2.0",
+    "@nestjs/schematics": "^9.0.4"
+  },
+  "volta": {
+    "node": "16.18.0",
+    "yarn": "1.22.4"
+  }
+}
